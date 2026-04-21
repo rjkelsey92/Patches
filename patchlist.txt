@@ -1,1 +1,3 @@
 ﻿Data\Patch-Y.mpq
+Interface\Addons\TalentLite\TalentLite.toc
+Interface\Addons\TalentLite\TalentLite.lua
