@@ -1,2 +1,3 @@
 ﻿
 Data\Patch-Y.mpq
+Interface\Addons\TalentLite\

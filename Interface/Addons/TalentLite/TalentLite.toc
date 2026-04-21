@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: TalentLite
+## Notes: Minimal 5-tree talent viewer
+## Author: You
+## Version: 1.0
+
+TalentLite.lua
