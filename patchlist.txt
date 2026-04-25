@@ -1,3 +1,2 @@
-﻿Data/Patch-Y.mpq
-Interface/Addons/TalentLite/TalentLite.toc
-Interface/Addons/TalentLite/TalentLite.lua
+﻿Data/Patch-zz.mpq
+Data/Patch-za.mpq
